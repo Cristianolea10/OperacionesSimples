@@ -1,0 +1,3 @@
+# OperacionesSimples
+Operaciones
+primeramente
